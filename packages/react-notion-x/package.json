@@ -1,9 +1,9 @@
 {
-  "name": "@getmicro/react-notion-x",
-  "version": "6.12.9-4",
+  "name": "@syncwith/react-notion-x",
+  "version": "6.12.9-7",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion..",
-  "repository": "getmicro/react-notion-x",
+  "repository": "syncwith/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
